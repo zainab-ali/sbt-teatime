@@ -1,5 +1,5 @@
 package milk
 
-enum MilkType {
+enum Variety {
   case FullFat, SemiSkimmed, Skimmed
 }
